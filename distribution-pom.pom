@@ -1,0 +1,42 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.sleepycat</groupId>
+    <artifactId>je</artifactId>
+    <version>18.3.12</version>
+    <packaging>jar</packaging>
+
+    <name>Oracle NoSQL Database Server</name>
+    <organization>
+        <name>Oracle Corporation</name>
+    </organization>
+  <description>Berkeley DB Java Edition is a open source, transactional storage solution for Java applications. The Direct Persistence Layer (DPL) API is
+    faster and easier to develop, deploy, and manage than serialized object files or ORM-based Java persistence solutions.  The Collections API enhances the
+    standard java.util.collections classes allowing them to be persisted to a local file system and accessed concurrently while protected by ACID
+    transactions. Data is stored by serializing objects and managing class and instance data separately so as not to waste space. Berkeley DB Java Edition is
+    the reliable drop-in solution for complex, fast, and scalable storage.  Source for this release is in 'je-18.3.12-sources.jar', the Javadoc is located at
+    'http://download.oracle.com/berkeley-db/docs/je/7.3.7/'.</description>
+
+
+  <url>http://www.oracle.com/technetwork/database/database-technologies/nosqldb</url>
+
+    <licenses>
+        <license>
+            <name>Apache 2</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>http://www.oracle.com/technetwork/database/database-technologies/nosqldb/downloads/index.html</url>
+        <connection>http://www.oracle.com/technetwork/database/database-technologies/nosqldb/downloads/index.html</connection>
+    </scm>
+
+    <developers>
+        <developer>
+            <name></name>
+            <organization>Oracle Corporation</organization>
+        </developer>
+    </developers>
+
+</project>

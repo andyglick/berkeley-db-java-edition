@@ -1,0 +1,14 @@
+
+
+.idea/
+target/
+
+*.iml
+*.ipr
+*.iws
+
+*.log
+
+effective-pom.xml
+
+pom.xml.versionsBackup
